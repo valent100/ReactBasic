@@ -1,0 +1,19 @@
+Pregunta 1
+¿Cuál es la diferencia entre un componente UI y un componente funcional en React?
+Los componentes UI son aquellos que se enfocan en la parte visual, más que todo en su diseño de como se ve como los botones, encabezados, tarjetas, barras de navegación entre otras y los componentes funcionales son aquellos que manejan la parte lógica del programa y el estado o efectos con hooks
+
+Pregunta 2
+¿Qué son las props en React y cuál es su propósito principal?
+Los props en react son las que aceptan entradas arbitrarias y tiene el proposito de retonar elementos de react que describen 
+lo que aparece en la pantalla
+
+Pregunta 3:
+¿Qué son los children props en React y por qué no se recomienda su uso excesivo?
+Los children no son muy recomendables debido a su estructura ya que son considerados como estructura opaca, no son 
+los mejores para filtrar, transformar o contar y son los componentes que almacenan contenido donde se puede intercambiar 
+
+Pregunta 4:
+¿Qué es useState en React y para qué se utiliza principalmente?
+Es un HOOK, Está permite agregar una variable de estado al componente, se usa porque es más facil de crear y actualizar 
+las variables de estado sin tener la necesidad de escriir una clase completa en resumen es un metodo o herramienta importante
+en react para manejar el estado del aplicativo.
